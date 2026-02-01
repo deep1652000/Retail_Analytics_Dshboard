@@ -13,7 +13,7 @@ The project demonstrates:
 - Executive-level dashboarding
 
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 
 - Analyze total and returning customers
 - Identify high-value customers
@@ -22,7 +22,7 @@ The project demonstrates:
 - Support data-driven decision making.
 
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 - SQL (MySQL) – Data cleaning, transformation, modeling, and analytics
 - Power BI – Data modeling, DAX measures, and dashboard creation
@@ -30,7 +30,7 @@ The project demonstrates:
 - Power Query – Data preprocessing
 
 
-🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
@@ -40,7 +40,7 @@ The project demonstrates:
 - Analytical Thinking
 
 
-🧹 Data Cleaning & Preparation (SQL)
+## 🧹 Data Cleaning & Preparation (SQL)
 
 Key steps performed:
 - Renamed tables and columns for consistency
@@ -52,7 +52,7 @@ Key steps performed:
 - Validated primary and foreign key relationships
 
 
-🗂 Data Model
+## 🗂 Data Model
 
 Star Schema Design:
 Fact Table:
@@ -66,7 +66,7 @@ Preview
 <img width="847" height="432" alt="Data Model" src="https://github.com/user-attachments/assets/a4daf26d-6f7e-480c-a072-129ba17d5027" />
 
 
-📊 Dashboard Pages
+## 📊 Dashboard Pages
 
 Page 1: Sales Overview
 - Total Revenue
@@ -100,7 +100,7 @@ Page 3: Customer Analysis
   <img width="757" height="419" alt="Product Performance" src="https://github.com/user-attachments/assets/b70fb71e-0dc2-4fdf-9fd5-abb585071fcc" />
 
 
-🧠 Key Insights
+## 🧠 Key Insights
 
 - Total Revenue: $702k | Total Customers: 989.
 - AOV; 140.40  | Total Transaction:5000
