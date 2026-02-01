@@ -13,6 +13,7 @@ The project demonstrates:
 - Executive-level dashboarding
 
 
+
 ## 🎯 Business Objectives
 
 - Analyze total and returning customers
@@ -22,12 +23,14 @@ The project demonstrates:
 - Support data-driven decision making.
 
 
+ 
 ## 🛠 Tools & Technologies
 
 - SQL (MySQL) – Data cleaning, transformation, modeling, and analytics
 - Power BI – Data modeling, DAX measures, and dashboard creation
 - DAX – KPI calculation and business logic
 - Power Query – Data preprocessing
+
 
 
 ## 🎯 Skills Demonstrated
@@ -38,6 +41,7 @@ The project demonstrates:
 - Dashboard Design
 - Business Storytelling
 - Analytical Thinking
+
 
 
 ## 🧹 Data Cleaning & Preparation (SQL)
@@ -52,6 +56,7 @@ Key steps performed:
 - Validated primary and foreign key relationships
 
 
+
 ## 🗂 Data Model
 
 Star Schema Design:
@@ -64,6 +69,7 @@ date
 customer_segment
 Preview
 <img width="847" height="432" alt="Data Model" src="https://github.com/user-attachments/assets/a4daf26d-6f7e-480c-a072-129ba17d5027" />
+
 
 
 ## 📊 Dashboard Pages
@@ -98,6 +104,7 @@ Page 3: Customer Analysis
 - High-Value Customer Table
   Preview
   <img width="757" height="419" alt="Product Performance" src="https://github.com/user-attachments/assets/b70fb71e-0dc2-4fdf-9fd5-abb585071fcc" />
+
 
 
 ## 🧠 Key Insights
